@@ -1,1 +1,0 @@
-# taraskarpevych.github.io
