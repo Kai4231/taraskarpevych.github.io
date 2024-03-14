@@ -1,16 +1,14 @@
 hr {
-    border-style: none; /* redundant */
-    border-top-style: dotted;
-    border-color: green;
-    border-width: 10px;
-    width: 50%;
+	border-style: none;
+	border-top-style: dotted;
+	border-color: green;
+	border-width: 10px;
+	width: 50%;
 }
-
 
 h3 {
-    color: orange;
+	color: orange;
 }
-
 
 .box {
 	width: 100px;
@@ -31,15 +29,15 @@ h3 {
 }
 
 #flex-container {
-    display: flex;
-    border: 2px solid black;
-    padding: 10px;
-    height: 100px;
+	display: flex;
+	border: 2px solid black;
+	padding: 10px;
+	height: 100px;
 }
 
 .flex-item {
-    border-radius: 12px;
-    background-color: #9ACD32;
-    height: 75px;
-    width: 75px;
+	border-radius: 12px;
+	background-color: #9ACD32;
+	height: 75px;
+	width: 75px;
 }
